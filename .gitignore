@@ -1,0 +1,13 @@
+target/
+.idea*
+.DS_Store
+*.iml
+*.class
+*.log
+*.hprof
+target
+.tags
+.ensime_cache
+application.conf
+.vscode
+logback.xml
